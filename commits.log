@@ -1,0 +1,98 @@
+commit e4549d7ae8482ffb01e4b36645e8936fad84827a
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:24:18 2024 -0800
+
+    Agregando parrafos
+
+commit 9d59948c0f8c86d09e99be73554ef7b6bf54fa64
+Merge: c9ae187 ef87745
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:23:14 2024 -0800
+
+    Resolviendo conflictos en estaciones del año y fechas
+
+commit c9ae1878293b5c4133d8ac99c99ec6844bf252e3
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:14:53 2024 -0800
+
+    Agregando estaciones del año con fechas
+
+commit ef877457fd9137a3e36b7615a65e95e2f639e777
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:14:53 2024 -0800
+
+    Agregando las estaciones del año
+
+commit db3c3b7126a797b366fd0ada0033af3b6a7db8d6
+Merge: 94cdfe2 43c6876
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:12:40 2024 -0800
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 43c6876a07cb4e2bce38bdc92d1fd990d304f20e
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:07:11 2024 -0800
+
+    Agregando index.js a index.html
+
+commit 94cdfe2e035a6e755ac760453b899745d7aa5311
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 18:05:25 2024 -0800
+
+    Agregando style.css a index.html
+
+commit a8ab2fcfceae85d5c5e061576468995e37396413
+Merge: 10fe168 ac253bf
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:59:59 2024 -0800
+
+    Merge branch 'js'
+
+commit ac253bf8c2b2c745f8ea967d9032ba68a4ff8297
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:57:48 2024 -0800
+
+    Creando index.js
+
+commit 10fe168127383dae7e24eba68da1899f58f4119f
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:55:23 2024 -0800
+
+    creando style.css
+
+commit 5d41bc315e15e692af6d9e765858c82ae8106ea1
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:52:56 2024 -0800
+
+    Creando index.html
+
+commit 58f77bd9acf81fabf5c7cf2b7a191855cbcb36f3
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:44:12 2024 -0800
+
+    Ignorando archivos .exe
+
+commit ef239007b51f8a7a3f581e80c45e7ccf992cdcfc
+Author: LJossue <101231796+LJossue@users.noreply.github.com>
+Date:   Thu Feb 22 17:22:01 2024 -0800
+
+    Creando licencia del repositorio
+
+commit 9eb9df25b4fda1539c164b2918ec8df7526a01cf
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:19:16 2024 -0800
+
+    Agregando más contenido al README
+
+commit 5e9730daa269f66efe07e1c9341902dff054ff00
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:13:13 2024 -0800
+
+    Agregando contenido inicial al README
+
+commit 1fcb7ed0d55a753c76ede9e325a3514c184a251b
+Author: Leandro Ramirez <leand_jossue@hotmail.com>
+Date:   Thu Feb 22 17:10:34 2024 -0800
+
+    Primer Commit 😁
